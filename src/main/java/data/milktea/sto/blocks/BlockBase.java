@@ -17,7 +17,7 @@ public class BlockBase extends Block implements IHasModel
         super(material);
         this.setUnlocalizedName(name);
         this.setRegistryName(name);
-        this.setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
+        this.setCreativeTab(ShopToOutlet.STO_TAB);
 
         ModBlocks.BLOCKS.add(this);
         ModItems.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));

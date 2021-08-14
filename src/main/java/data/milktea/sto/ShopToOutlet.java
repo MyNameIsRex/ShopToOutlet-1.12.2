@@ -1,6 +1,10 @@
 package data.milktea.sto;
 
+import data.milktea.sto.inits.ModBlocks;
 import data.milktea.sto.proxy.CommonProxy;
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -11,6 +15,8 @@ public class ShopToOutlet
 {
     @Mod.Instance
     public static ShopToOutlet instance;
+
+    public static final CreativeTabs STO_TAB = new TabShopToOutlet("tab_" + Reference.MODID);
 
     @SidedProxy(clientSide = Reference.CLIENT, serverSide = Reference.COMMON)
     public static CommonProxy proxy;
@@ -25,5 +31,20 @@ public class ShopToOutlet
     public void init(FMLInitializationEvent event)
     {
 
+    }
+
+    public static class TabShopToOutlet extends CreativeTabs
+    {
+        public TabShopToOutlet(String label)
+        {
+            super("tab_milkteasto");
+            this.setBackgroundImageName("milkteasto.png");
+        }
+
+        @Override
+        public ItemStack getTabIconItem()
+        {
+            return new ItemStack(Item.getItemFromBlock(ModBlocks.PIPE));
+        }
     }
 }

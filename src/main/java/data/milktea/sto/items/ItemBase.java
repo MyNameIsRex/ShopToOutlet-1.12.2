@@ -13,7 +13,7 @@ public class ItemBase extends Item implements IHasModel
     {
         this.setUnlocalizedName(name);
         this.setRegistryName(name);
-        this.setCreativeTab(CreativeTabs.FOOD);
+        this.setCreativeTab(ShopToOutlet.STO_TAB);
 
         ModItems.ITEMS.add(this);
     }
