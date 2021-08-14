@@ -1,4 +1,4 @@
 package data.milktea.sto.proxy;
 
-public class ClientProxy {
+public class ClientProxy extends CommonProxy{
 }

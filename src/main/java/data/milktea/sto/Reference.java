@@ -7,6 +7,6 @@ public class Reference
     public static final String VERSION = "0.1";
     public static final String MC_VERSION = "[1.12.2]";
 
-    public static final String CLIENT = "";
-    public static final String COMMON = "";
+    public static final String CLIENT = "data.milktea.sto.proxy.ClientProxy";
+    public static final String COMMON = "data.milktea.sto.proxy.CommonProxy";
 }

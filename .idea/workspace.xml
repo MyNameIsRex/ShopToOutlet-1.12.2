@@ -63,6 +63,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9c6da80e-3136-48a1-8042-de0b279eb97e" />
+        <option name="url" value="https://github.com/MyNameIsRex/ShopToOutlet-1.12.2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="1wh4YAAIMmvzVlIqDODHCd4GNWl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
