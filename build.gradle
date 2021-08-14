@@ -14,7 +14,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0'
+version = '0.1'
 group = 'data.milktea.sto' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'milkteasto'
 
@@ -114,4 +114,8 @@ publishing {
             url "file:///${project.projectDir}/mcmodsrepo"
         }
     }
+}
+
+sourceSets {
+    main { output.resourcesDir = output.classesDir }
 }
