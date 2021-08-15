@@ -1,23 +1,17 @@
 {
-  "variants": {
-    "facing=up": {
-      "model": "milkteasto:pipe"
-    },
-
-    "facing=south": {
-      "model": "milkteasto:pipe"
-    },
-
-    "facing=east": {
-      "model": "milkteasto:pipe","y":270
-    },
-
-    "facing=west": {
-      "model": "milkteasto:pipe","y":90
-    },
-
+  "variants":
+  {
     "facing=north": {
-      "model": "milkteasto:pipe","y":180
+      "model": "milkteasto:pipe","y": 270,"uvlock": true
+    },
+    "facing=east": {
+      "model": "milkteasto:pipe","uvlock": true
+    },
+    "facing=south": {
+      "model": "milkteasto:pipe","y": 90,"uvlock": true
+    },
+    "facing=west": {
+      "model": "milkteasto:pipe","y": 180,"uvlock": true
     }
   }
 }

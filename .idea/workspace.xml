@@ -4,71 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7225e5f-5b25-44c2-9a9b-106c091e021d" name="Default Changelist" comment="Update #6 The model for the pipe has been created">
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-3.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-4.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-5.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-6.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/logs/2021-08-15-7.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/5648fab5-fa61-330e-8fa7-aea962bdfd7c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/63489016-3661-38ec-acb6-3029cde6f29c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/6601b320-c3a2-386d-b620-ed0b5821b8de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/68a3e4ad-dd19-33fa-8035-4934872a4f77.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/69f2b187-e079-316a-90f3-428ee409a7fd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/71f66ac1-c861-3de2-8cda-9d0f80277f27.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/7c860150-b37d-33df-82cf-c73f863934ed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/aa0974cf-bafe-3f00-bd4a-65b146355415.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/b63c1160-7834-3764-9276-2fb9c5acd6ce.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/baf6de3a-5bd7-32fc-ab9f-e6b63b25393f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/f5b981a5-256b-3e0a-a7c0-a95965005354.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/5648fab5-fa61-330e-8fa7-aea962bdfd7c.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/63489016-3661-38ec-acb6-3029cde6f29c.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/6601b320-c3a2-386d-b620-ed0b5821b8de.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/68a3e4ad-dd19-33fa-8035-4934872a4f77.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/69f2b187-e079-316a-90f3-428ee409a7fd.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/71f66ac1-c861-3de2-8cda-9d0f80277f27.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/7c860150-b37d-33df-82cf-c73f863934ed.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/aa0974cf-bafe-3f00-bd4a-65b146355415.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/b63c1160-7834-3764-9276-2fb9c5acd6ce.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/baf6de3a-5bd7-32fc-ab9f-e6b63b25393f.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/f5b981a5-256b-3e0a-a7c0-a95965005354.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/5648fab5-fa61-330e-8fa7-aea962bdfd7c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/63489016-3661-38ec-acb6-3029cde6f29c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/63acdfe4-8ecf-374a-878d-bbc28b3cc2c5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/6601b320-c3a2-386d-b620-ed0b5821b8de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/68a3e4ad-dd19-33fa-8035-4934872a4f77.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/69f2b187-e079-316a-90f3-428ee409a7fd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/71f66ac1-c861-3de2-8cda-9d0f80277f27.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/7c860150-b37d-33df-82cf-c73f863934ed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/aa0974cf-bafe-3f00-bd4a-65b146355415.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/b63c1160-7834-3764-9276-2fb9c5acd6ce.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/baf6de3a-5bd7-32fc-ab9f-e6b63b25393f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/f5b981a5-256b-3e0a-a7c0-a95965005354.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockAirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockAluminumFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockAluminumWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockBeverageStand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockCashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockCeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockCoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockHotDogStand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMagazineShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMailBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMetalShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMicrowave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockOdenCooker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockShoppingBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockSlidingDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockSteamShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockSweetPotatoStand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockTeaEggPot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockWaterMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/block/pipe.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileContent/fileContent.lock" afterDir="false" />
+    <list default="true" id="b7225e5f-5b25-44c2-9a9b-106c091e021d" name="Default Changelist" comment="Update #7 The pipe will change around according to it's current facing, added the rest of the blocks in Update 0.1 into the mod">
+      <change afterPath="$PROJECT_DIR$/run/crash-reports/crash-2021-08-15_16.22.01-client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/078f5e46-1768-3b85-8c83-1cee0b3b10ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/0cb96bf3-4c77-3186-b066-73e68c05fc28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/0ef55c79-9bc5-371f-96a7-29e4485d0c04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/428a9eb8-eb59-3300-892c-1124ca047d38.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/56f01d2a-1301-31e7-9d05-beb3615c471c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/5b615aa5-0042-3651-8971-2294273b0cec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/6ac51f60-8a46-3363-88e0-2d4d5f8e5646.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/6db1171d-4fa6-31cb-b425-1896281a26e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/77167de3-5df9-3c83-b06a-bed9a476e835.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/8900053b-f4fc-363a-959f-93166c198461.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/8b435ab7-751f-377f-8d6e-243e4ae9abf2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/a498be5d-0142-3d23-a17c-8823a1cd27b0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/b77729bf-eef8-37d7-9aff-2a869ec2a3e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/d3ee42bb-6490-3bf6-992c-01b42b8a0039.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/dbef6173-b792-3041-821b-b11445f44ee8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/078f5e46-1768-3b85-8c83-1cee0b3b10ab.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/0cb96bf3-4c77-3186-b066-73e68c05fc28.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/0ef55c79-9bc5-371f-96a7-29e4485d0c04.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/428a9eb8-eb59-3300-892c-1124ca047d38.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/56f01d2a-1301-31e7-9d05-beb3615c471c.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/5b615aa5-0042-3651-8971-2294273b0cec.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/6ac51f60-8a46-3363-88e0-2d4d5f8e5646.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/6db1171d-4fa6-31cb-b425-1896281a26e2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/77167de3-5df9-3c83-b06a-bed9a476e835.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/8900053b-f4fc-363a-959f-93166c198461.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/8b435ab7-751f-377f-8d6e-243e4ae9abf2.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/a498be5d-0142-3d23-a17c-8823a1cd27b0.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/b77729bf-eef8-37d7-9aff-2a869ec2a3e6.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/d3ee42bb-6490-3bf6-992c-01b42b8a0039.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/dbef6173-b792-3041-821b-b11445f44ee8.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/078f5e46-1768-3b85-8c83-1cee0b3b10ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/0cb96bf3-4c77-3186-b066-73e68c05fc28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/0ef55c79-9bc5-371f-96a7-29e4485d0c04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/428a9eb8-eb59-3300-892c-1124ca047d38.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/56f01d2a-1301-31e7-9d05-beb3615c471c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/5b615aa5-0042-3651-8971-2294273b0cec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/6ac51f60-8a46-3363-88e0-2d4d5f8e5646.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/6db1171d-4fa6-31cb-b425-1896281a26e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/77167de3-5df9-3c83-b06a-bed9a476e835.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/8900053b-f4fc-363a-959f-93166c198461.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/8b435ab7-751f-377f-8d6e-243e4ae9abf2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/a498be5d-0142-3d23-a17c-8823a1cd27b0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/b77729bf-eef8-37d7-9aff-2a869ec2a3e6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/d3ee42bb-6490-3bf6-992c-01b42b8a0039.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/Test World/stats/dbef6173-b792-3041-821b-b11445f44ee8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockCashierTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockPipeCorner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockPipeCrossed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockPipeSided.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/blockstates/pipe_corner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/blockstates/pipe_crossed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/blockstates/pipe_sided.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/block/pipe_corner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/block/pipe_crossed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/block/pipe_sided.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/item/pipe_corner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/item/pipe_crossed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/models/item/pipe_sided.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/minecraft/textures/gui/container/creative_inventory/tab_milkteasto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
@@ -78,28 +74,51 @@
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/assets/milkteasto/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/assets/milkteasto/lang/en_us.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/assets/milkteasto/lang/zh_tw.lang" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/assets/milkteasto/lang/zh_tw.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2021-08-15-7.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2021-08-15-7.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test World/advancements/24078ad8-d7e0-3e5c-a4a9-a3bc169a7177.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/advancements/24078ad8-d7e0-3e5c-a4a9-a3bc169a7177.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/data/villages.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test World/playerdata/24078ad8-d7e0-3e5c-a4a9-a3bc169a7177.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/playerdata/24078ad8-d7e0-3e5c-a4a9-a3bc169a7177.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.-1.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.-1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/saves/Test World/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/saves/Test World/stats/24078ad8-d7e0-3e5c-a4a9-a3bc169a7177.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/Test World/stats/24078ad8-d7e0-3e5c-a4a9-a3bc169a7177.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockPipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockAirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockAirConditioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockAluminumFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockAluminumFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockAluminumWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockAluminumWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockBeverageStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockBeverageStand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockCashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockCashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockCeilingFan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockCeilingFan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockCoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockCoffeeMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockHotDogStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockHotDogStand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMagazineShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockMagazineShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMailBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockMailBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMetalShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockMetalShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockMicrowave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockMicrowave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockOdenCooker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockOdenCooker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockPipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockShoppingBasket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockShoppingBasket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockSlidingDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockSlidingDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockSteamShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockSteamShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockSweetPotatoStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockSweetPotatoStand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockTeaEggPot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockTeaEggPot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/BlockWaterMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/blocks/update01/BlockWaterMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/inits/ModBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/inits/ModBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/data/milktea/sto/inits/ModItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/milktea/sto/inits/ModItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/blockstates/pipe.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/blockstates/pipe.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/lang/en_us.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/lang/en_us.lang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/lang/zh_tw.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/milkteasto/lang/zh_tw.lang" afterDir="false" />
@@ -182,11 +201,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/assets/milkteasto/blockstates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="data.milktea.sto.blocks" />
       <recent name="data.milktea.sto.inits" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\backup 20210514\G\Shop to Outlet\1.12.2\src\main\resources\assets\milkteasto\blockstates" />
+      <recent name="G:\backup 20210514\G\Shop to Outlet\1.12.2\src\main\resources\assets\milkteasto\models\item" />
     </key>
   </component>
   <component name="RunManager" selected="Application.runClient">
@@ -269,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629005180902</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update #7 The pipe will change around according to it's current facing, added the rest of the blocks in Update 0.1 into the mod">
+      <created>1629009275621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629009275621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +320,7 @@
     <MESSAGE value="Update #4 Pipe Block is created, unwanted Overrides are removed" />
     <MESSAGE value="Update #5 The Creative Tab for the mod is created" />
     <MESSAGE value="Update #6 The model for the pipe has been created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update #6 The model for the pipe has been created" />
+    <MESSAGE value="Update #7 The pipe will change around according to it's current facing, added the rest of the blocks in Update 0.1 into the mod" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update #7 The pipe will change around according to it's current facing, added the rest of the blocks in Update 0.1 into the mod" />
   </component>
 </project>

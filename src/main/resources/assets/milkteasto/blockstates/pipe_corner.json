@@ -1,0 +1,17 @@
+{
+  "variants":
+  {
+    "facing=north": {
+      "model": "milkteasto:pipe_corner","y": 270,"uvlock": true
+    },
+    "facing=east": {
+      "model": "milkteasto:pipe_corner","uvlock": true
+    },
+    "facing=south": {
+      "model": "milkteasto:pipe_corner","y": 90,"uvlock": true
+    },
+    "facing=west": {
+      "model": "milkteasto:pipe_corner","y": 180,"uvlock": true
+    }
+  }
+}

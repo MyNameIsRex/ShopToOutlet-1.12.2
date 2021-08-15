@@ -1,4 +1,6 @@
 tile.pipe.name=水管
+tile.pipe_corner.name=轉彎水管
+tile.pipe_sided.name=分岔水管
 tile.aluminum_frame.name=鋁框
 tile.aluminum_framed_window.name=鋁窗
 tile.sliding_door.name=滑門
@@ -20,4 +22,5 @@ tile.water_machine.name=飲水機
 tile.microwave.name=微波爐
 tile.shopping_basket.name=購物籃
 
-itemGroup.tab_milkteasto=商店到Outlet
+
+tile.pipe_corner.name=Cornered PipeitemGroup.tab_milkteasto=商店到Outlet

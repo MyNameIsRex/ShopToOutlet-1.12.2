@@ -1,8 +1,7 @@
 package data.milktea.sto.inits;
 
-import data.milktea.sto.blocks.*;
+import data.milktea.sto.blocks.update01.*;
 import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +12,9 @@ public class ModBlocks
 
     //Update 0.1
     public static final Block PIPE = new BlockPipe("pipe");
+    public static final Block PIPE_CORNER = new BlockPipeCorner("pipe_corner");
+    public static final Block PIPE_SIDED = new BlockPipeSided("pipe_sided");
+    public static final Block PIPE_CROSSED = new BlockPipeCrossed("pipe_crossed");
     public static final Block ALUMINUM_FRAME = new BlockAluminumFrame("aluminum_frame");
     public static final Block ALUMINUM_WINDOW = new BlockAluminumWindow("aluminum_framed_window");
     public static final Block SLIDING_DOOR = new BlockSlidingDoor("sliding_door");
