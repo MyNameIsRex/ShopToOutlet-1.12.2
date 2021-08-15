@@ -1,9 +1,23 @@
 {
-  "variants":
-  {
-    "normal":
-    {
+  "variants": {
+    "facing=up": {
       "model": "milkteasto:pipe"
+    },
+
+    "facing=south": {
+      "model": "milkteasto:pipe"
+    },
+
+    "facing=east": {
+      "model": "milkteasto:pipe","y":270
+    },
+
+    "facing=west": {
+      "model": "milkteasto:pipe","y":90
+    },
+
+    "facing=north": {
+      "model": "milkteasto:pipe","y":180
     }
   }
 }

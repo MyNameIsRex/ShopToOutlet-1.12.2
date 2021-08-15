@@ -1,5 +1,23 @@
-item.tea_egg.name=Tea Egg
-
 tile.pipe.name=Pipe
+tile.aluminum_frame.name=Aluminum Frame
+tile.aluminum_framed_window.name=Aluminum Framed Window
+tile.sliding_door.name=Sliding Door
+tile.cashier.name=Cashier Machine
+tile.cashier_desk.name=Cashier Desk
+tile.metal_shelf.name=Metal Shelf
+tile.steam_shelf.name=Steam Shelf
+tile.hot_dog_stand.name=Hot Dog Stand
+tile.tea_egg_pot.name=Tea Egg Pot
+tile.oden_cooker.name=Oden Cooker
+tile.beverage_stand.name=Beverage Stand
+tile.ceiling_fan.name=Ceiling Fan
+tile.ac.name=Air Conditioner
+tile.magazine_shelf.name=Magazine Shelf
+tile.sweet_potato_stand.name=Sweet Potato Stand
+tile.coffee_machine.name=Coffee Machine
+tile.mailbox.name=Mailbox
+tile.water_machine.name=Water Machine
+tile.microwave.name=Microwave
+tile.shopping_basket.name=Shopping Basket
 
 itemGroup.tab_milkteasto=Shop to Outlet

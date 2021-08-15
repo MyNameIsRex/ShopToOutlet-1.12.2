@@ -1,5 +1,23 @@
-item.tea_egg.name=茶葉蛋
-
 tile.pipe.name=水管
+tile.aluminum_frame.name=鋁框
+tile.aluminum_framed_window.name=鋁窗
+tile.sliding_door.name=滑門
+tile.cashier.name=收銀機
+tile.cashier_desk.name=收銀桌
+tile.metal_shelf.name=金屬架
+tile.steam_shelf.name=蒸櫃
+tile.hot_dog_stand.name=熱狗架
+tile.tea_egg_pot.name=茶葉蛋鍋
+tile.oden_cooker.name=關東煮架
+tile.beverage_stand.name=飲料架
+tile.ceiling_fan.name=風扇
+tile.ac.name=空調
+tile.magazine_shelf.name=雜誌架
+tile.sweet_potato_stand.name=番薯架
+tile.coffee_machine.name=咖啡機
+tile.mailbox.name=貨物櫃
+tile.water_machine.name=飲水機
+tile.microwave.name=微波爐
+tile.shopping_basket.name=購物籃
 
 itemGroup.tab_milkteasto=商店到Outlet
