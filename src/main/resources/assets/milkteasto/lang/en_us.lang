@@ -1,6 +1,7 @@
 tile.pipe.name=Pipe
 tile.pipe_corner.name=Cornered Pipe
 tile.pipe_sided.name=Sided Pipe
+tile.pipe_crossed.name=Crossed Pipe
 tile.aluminum_frame.name=Aluminum Frame
 tile.aluminum_framed_window.name=Aluminum Framed Window
 tile.sliding_door.name=Sliding Door

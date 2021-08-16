@@ -44,7 +44,7 @@ public class ShopToOutlet
         @Override
         public ItemStack getTabIconItem()
         {
-            return new ItemStack(Item.getItemFromBlock(ModBlocks.PIPE));
+            return new ItemStack(Item.getItemFromBlock(ModBlocks.TEA_EGG_POT));
         }
     }
 }

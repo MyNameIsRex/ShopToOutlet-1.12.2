@@ -18,7 +18,7 @@ public class BlockPipeCrossed extends BlockBase
     @Override
     public boolean isFullCube(IBlockState state)
     {
-        return false
+        return false;
     }
 
     @Override

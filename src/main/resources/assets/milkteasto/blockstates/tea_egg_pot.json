@@ -1,0 +1,17 @@
+{
+  "variants":
+  {
+    "facing=north": {
+      "model": "milkteasto:tea_egg_pot","y": 180, "uvlock": true
+    },
+    "facing=east": {
+      "model": "milkteasto:tea_egg_pot","y": 270,"uvlock": true
+    },
+    "facing=south": {
+      "model": "milkteasto:tea_egg_pot","y": 0,"uvlock": true
+    },
+    "facing=west": {
+      "model": "milkteasto:tea_egg_pot","y": 90,"uvlock": true
+    }
+  }
+}

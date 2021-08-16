@@ -5,7 +5,7 @@ fov:0.625
 gamma:1.0
 saturation:0.0
 renderDistance:8
-guiScale:3
+guiScale:0
 particles:0
 bobView:false
 anaglyph3d:false
@@ -18,7 +18,7 @@ renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:zh_tw
 chatVisibility:0
 chatColors:true
 chatLinks:true
